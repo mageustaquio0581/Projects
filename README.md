@@ -1,0 +1,4 @@
+- Hi. Im Alvin 
+- This is the main project repository for the course of Full Stack Web Development  
+- Happy to help to start a new career
+- I hope you will able to learn a lot of things
